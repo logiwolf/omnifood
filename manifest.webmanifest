@@ -1,0 +1,14 @@
+{
+  "icons": [
+    {
+      "src": "../09-Omnifood-Optimizations/img/favicon192.png",
+      "type": "image/png",
+      "sizes": "192*192"
+    }
+    // {
+    //   "src": "../09-Omnifood-Optimizations/img/favicon 512.png",
+    //   "type": "image/png",
+    //   "sizes": "512*512"
+    // }
+  ]
+}
